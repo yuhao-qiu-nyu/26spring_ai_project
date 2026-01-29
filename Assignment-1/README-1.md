@@ -2,7 +2,7 @@
 ## Science Guessing Game
 ### Pencode Link: https://codepen.io/Yuhao-Qiu/pen/emzVgyV
 
-> "This project aims to foster peer learning through AI interaction."
+> "This project aims to foster independent learning through AI interaction."
 
 ### 1. Rationale for Game Mechanics
 

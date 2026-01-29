@@ -13,3 +13,7 @@ Precision and Logic: Unlike humanities, scientific concepts are defined by high 
 The Power of "Yes/No" in Science: In science, most properties are binary or factual (e.g., Is it a metal? Is it solid at room temperature?). This guessing format perfectly mirrors the Scientific Method—forming a hypothesis and testing it through structured inquiry.
 
 Effective Scaffolding: For middle schoolers, a completely open-ended conversation can sometimes lead to "hallucinations" or vague learning. A goal-oriented guessing game provides a clear boundary, ensuring that the student stays focused on the specific physical and chemical attributes of the target concept.
+
+### 2. Target Audience Group
+
+

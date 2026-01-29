@@ -38,7 +38,8 @@ Scaffolding: The AI acts as a mentor that provide hints or corrective feedback, 
 
 ### ✅ Get Started
 
-BE SURE TO GET YOUR OWN GEMINI API KEY 😄
+Don't forget to have your OWN GEMINI API KEY ready before you start!😄
+
 Game Link: https://yuhao-qiu-nyu.github.io/26spring_ai_project/Assignment-1/index.html
 
 

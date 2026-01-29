@@ -1,6 +1,6 @@
 # Assignment 1
 ## Science Guessing Game
-### Pencode Link: https://codepen.io/Yuhao-Qiu/pen/emzVgyV
+### [Pencode Link](https://codepen.io/Yuhao-Qiu/pen/emzVgyV)
 
 > "This project aims to foster independent learning through AI interaction."
 
@@ -40,6 +40,6 @@ Scaffolding: The AI acts as a mentor that provide hints or corrective feedback, 
 
 Don't forget to have your OWN GEMINI API KEY ready before you start!😄
 
-Game Link: https://yuhao-qiu-nyu.github.io/26spring_ai_project/Assignment-1/index.html
+[Game Start🚩](https://yuhao-qiu-nyu.github.io/26spring_ai_project/Assignment-1/index.html)
 
 

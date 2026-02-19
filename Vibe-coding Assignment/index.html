@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake: Morandi Edition</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="game-container">
+        <header>
+            <h1>Snake <span>Morandi</span></h1>
+            <div class="score-board">
+                <div class="score-item">
+                    <span class="label">Score</span>
+                    <span id="current-score" class="value">0</span>
+                </div>
+                <div class="score-item">
+                    <span class="label">Best</span>
+                    <span id="best-score" class="value">0</span>
+                </div>
+            </div>
+        </header>
+
+        <main id="game-workspace">
+            <canvas id="game-canvas"></canvas>
+
+            <div id="overlay" class="overlay hidden">
+                <div class="overlay-content">
+                    <h2 id="overlay-title">GAME OVER</h2>
+                    <p id="overlay-msg">Ready to try again?</p>
+                    <button id="restart-btn">Start Game</button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Use arrow keys or WASD to navigate</p>
+        </footer>
+    </div>
+    <script src="game.js"></script>
+</body>
+
+</html>

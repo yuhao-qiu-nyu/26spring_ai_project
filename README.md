@@ -7,6 +7,6 @@
 
 ### 2. Vibe-coding Assignment
 
-[Vibe-coding Assignment - README](https://github.com/yuhao-qiu-nyu/26spring_ai_project/blob/main/Vibecoding)
+[Vibe-coding Assignment - README](https://github.com/yuhao-qiu-nyu/26spring_ai_project/blob/main/Vibe-coding Assignment/README-VC.md)
 
 

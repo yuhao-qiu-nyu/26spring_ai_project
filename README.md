@@ -7,4 +7,4 @@
 
 ### 2. Group Project: CatalystGuild
 
-[CatalystGuild]()
+[CatalystGuild](https://github.com/yuhao-qiu-nyu/26spring_ai_project/blob/main/CatalystGuild/README.md)

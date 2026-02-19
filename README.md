@@ -5,6 +5,4 @@
 
 [Science Guessing Game - README](https://github.com/yuhao-qiu-nyu/26spring_ai_project/blob/main/Assignment-1/README-1.md)
 
-### 2. Group Project: CatalystGuild
 
-[CatalystGuild](https://github.com/yuhao-qiu-nyu/26spring_ai_project/blob/main/CatalystGuild/README-CG.md)

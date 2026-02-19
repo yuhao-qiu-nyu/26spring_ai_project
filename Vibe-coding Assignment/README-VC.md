@@ -4,4 +4,4 @@
 
 > "Just have fun!"
 
-[Start Game]()
+[Start Game](https://yuhao-qiu-nyu.github.io/26spring_ai_project/Vibe-coding%20Assignment/index.html)

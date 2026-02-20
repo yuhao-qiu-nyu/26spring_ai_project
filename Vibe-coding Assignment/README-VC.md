@@ -15,8 +15,11 @@ This project involved developing a classic "Snake" game using Google Antigravity
 2. The Role of AI Agents in Streamlining Deployment
 
 The integration of AI Agents within Antigravity served as the primary catalyst for the project’s successful deployment. The agents facilitated a much clearer and simpler development path in several ways:
+
 Abstraction of Complexity: The agents handled the boilerplate logic for grid-based movement and collision detection, allowing me to focus on refining the user experience.
+
 Instant Iteration: By interpreting natural language prompts, the AI agents enabled real-time adjustments to game physics and difficulty scaling, significantly shortening the feedback loop.
+
 Technical Logic to Visual Output: The agents bridged the gap between human intent and machine execution, ensuring that the "Snake" logic was both robust and performant.
 
 3. Critical Assessment and Conclusion
